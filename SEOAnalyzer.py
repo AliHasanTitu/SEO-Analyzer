@@ -1,6 +1,6 @@
 from seoanalyzer import analyze
 
-# This is simple tool for seo
+# This is simple tool for SEO
 site = "https://abhinobo.com"
 site_map = "https://ahbinobo.com"
 
